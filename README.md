@@ -11,11 +11,11 @@ Estes dois documentos são amplarmente utilizados pelas área de dados de divers
 
 A Matriz de Necessidades é um documento meu criado durante o meu mestrado, que gerou um artigo internacional. 
 
-Link:http://www.tise.cl/volumen8/TISE2012/76.pdf
+Link: http://www.tise.cl/volumen8/TISE2012/76.pdf
 
 Para saber como aplicar as técnicas da Matriz de Necessidades e Fonte de Dados, você pode aprender no treinamento de Modelagem de Dados.
 
-Link:https://www.udemy.com/course/modelagem-de-dados-para-dw-a-referencia-definitiva/?referralCode=63DA78886D47568679C2
+Link: https://www.udemy.com/course/modelagem-de-dados-para-dw-a-referencia-definitiva/?referralCode=63DA78886D47568679C2
 
 ![DOCUMENTOS BI](https://user-images.githubusercontent.com/85241884/209333206-5c267616-7baf-4399-bb66-ec1ea811b1e5.png)
 
